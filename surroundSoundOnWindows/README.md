@@ -91,6 +91,3 @@ The *Dolby Digital Plus HT* tool is optional but may improve the sound quality. 
 2. Start *Dolby Digital Plus* program from start menu.
 ![Dolby Digital Plus Profile Editor tool](ddp_equalizer.png)
 3. I recommend setting the tab to *Game* and then select the *Open* or *Rich* preset.
-
-#### Problems? Feedback? Download links broken?
-Either post a GitHub issue or send me an email: [sonossurroundsoundplease@kapite.in](mailto:sonossurroundsoundplease@kapite.in)
